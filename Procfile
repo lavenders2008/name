@@ -1,1 +1,1 @@
-worker: python name.py 
+web: -b :$PORT python name.py 
