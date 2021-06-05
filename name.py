@@ -34,4 +34,4 @@ sleep(1)
 
 clear()
   
-app.run(debug = True)
+app.run()
