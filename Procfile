@@ -1,1 +1,1 @@
-web: gunicorn app:realpython-name-app
+web: gunicorn app:name
