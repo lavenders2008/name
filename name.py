@@ -34,4 +34,4 @@ sleep(1)
 
 clear()
   
-app.run()
+app.run(debug=True, port=33507)
